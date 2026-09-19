@@ -1,7 +1,5 @@
 ## Hi I'm Nicola Fernando 👋
 
-# Hi 👋, I'm [Your Name]
-
 🎓 Undergraduate | Informatics Institute of Technology (in partnership with University of Westminster) | Computing & DevOps Enthusiast
 
 ---
