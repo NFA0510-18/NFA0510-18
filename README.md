@@ -6,24 +6,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently learning **DevOps practices** alongside my degree
-- 📚 Studying **Machine Learning** and **Data Structures & Algorithms** this semester
-- 💡 Passionate about automation, CI/CD pipelines, and cloud infrastructure
-- 📫 Reach me at: **nicolaf006@gmail.com**
 
----
 
 ## 🛠️ Languages & Tools
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github" alt="Tech Stack" /> </p>
 
-
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 
