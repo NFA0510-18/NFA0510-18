@@ -9,7 +9,7 @@
 - 🔭 I'm currently learning **DevOps practices** alongside my degree
 - 📚 Studying **Machine Learning** and **Data Structures & Algorithms** this semester
 - 💡 Passionate about automation, CI/CD pipelines, and cloud infrastructure
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **nicolaf006@gmail.com**
 
 ---
 
