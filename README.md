@@ -15,8 +15,8 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,docker,linux,aws,mysql" alt="Tech Stack" /> </p>
----
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github" alt="Tech Stack" /> </p>
+
 
 
 ## 🔥 Streak Stats
