@@ -1,6 +1,6 @@
 ## Hi I'm Nicola Fernando 👋
 
-🎓 Undergraduate | Informatics Institute of Technology (in partnership with University of Westminster) | Computing & DevOps Enthusiast
+🎓 Undergraduate |  Computing & DevOps Enthusiast
 
 ---
 
@@ -9,7 +9,7 @@
 I'm passionate about using technology to solve problems and make life easier. My goal is to create accessible, user-friendly solutions that anyone can use, regardless of technical skills. I believe in the power of technology to improve lives and am committed to making it freely available to all.
 
 
--  I’m currently undergraduate BSc Computer Science at the Informatics Institute of Technology, in partnership with the University of Westminster
+- 🎓 I’m currently undergraduate BSc Computer Science at the Informatics Institute of Technology, in partnership with the University of Westminster
   
 - 🤝 I’m a dedicated volunteer, contributing my time and skills to meaningful community and collaborative initiatives.
 
